@@ -1,0 +1,31 @@
+Types of Data Structure:
+
+Primitive
+    Integer
+    Linear
+    Float
+    Character
+    String
+    Boolean
+
+Non Primitive
+    Static
+    Array
+
+    Dynamic
+    linked list
+    Stack
+    Queue
+    
+    Non Linear
+    Tree
+    Graph
+
+
+Types of Algorithms
+- Simple recursive algorithms
+- Divide and conquer algorithms
+- Dynamic programming algorithms
+- Greedy algorithms
+- Brute force algorithms
+- Randomized algorithms
